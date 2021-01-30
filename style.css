@@ -1,0 +1,24 @@
+/**
+red : f72585;
+blue: 3a0ca3;
+lightblue: 4361ee;
+**/
+
+h1 {
+  color: #f72585;
+  font-family: "Abril Fatface", cursive;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 5em;
+  line-height: 1.2rem;
+}
+h3 {
+  color: #f72585;
+  font-family: "Fira Sans", sans-serif;
+  text-align: center;
+}
+p {
+  color: #3a0ca3;
+  font-family: "Fira Sans", sans-serif;
+  text-align: center;
+}
